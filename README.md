@@ -50,7 +50,7 @@ python -m ipykernel install --user --name cell2loc_env --display-name "Python (c
 
 Access the tutorial directly through Google Colab:
 
-[Cell2Location Tutorial](https://colab.research.google.com/github/BayraktarLab/cell2location/blob/master/docs/notebooks/cell2location_tutorial.ipynb#scrollTo=20A-jsI9Lg4l)
+[Cell2Location Tutorial](https://colab.research.google.com/drive/1EJJKcnPJ-rVgEOBx2zvO8wEDYSj9in08#scrollTo=06Fc_vHEaXap)
 
 ## Option 3: Hybrid Approach (Recommended)
 
