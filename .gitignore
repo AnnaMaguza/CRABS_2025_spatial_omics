@@ -1,0 +1,31 @@
+# macOS system files
+.DS_Store
+
+# Python virtual environments
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+.DS_Store
+
+# ds_store files in all folders
+**/.DS_Store
+*/.DS_Store
